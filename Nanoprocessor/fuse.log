@@ -1,0 +1,78 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor_NanoProcessor_sch_tb_isim_beh.exe -prj D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor_NanoProcessor_sch_tb_beh.prj work.NanoProcessor_NanoProcessor_sch_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/HA.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Decoder_2_to_4.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FA.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Decoder_3_to_8.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_4.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_to_1.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2to1.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FOUR_RCA.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Four_bit_zero_reg.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/ROMM.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_bank.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/PC_new.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/new_Ins_dec.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_1_4bit.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2_4.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2_3.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Add_Sub_4_bit.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Adder_3_bit.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" into library work
+Parsing VHDL file "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture behavioral of entity Mux_2to1_MUSER_NanoProcessor [mux_2to1_muser_nanoprocessor_def...]
+Compiling architecture behavioral of entity Mux_2_4_MUSER_NanoProcessor [mux_2_4_muser_nanoprocessor_defa...]
+Compiling architecture behavioral of entity Mux_2_3_MUSER_NanoProcessor [mux_2_3_muser_nanoprocessor_defa...]
+Compiling architecture xor2_v of entity XOR2 [xor2_default]
+Compiling architecture behavioral of entity HA_MUSER_NanoProcessor [ha_muser_nanoprocessor_default]
+Compiling architecture behavioral of entity FA_MUSER_NanoProcessor [fa_muser_nanoprocessor_default]
+Compiling architecture behavioral of entity FOUR_RCA_MUSER_NanoProcessor [four_rca_muser_nanoprocessor_def...]
+Compiling architecture behavioral of entity Add_Sub_4_bit_MUSER_NanoProcessor [add_sub_4_bit_muser_nanoprocesso...]
+Compiling architecture pullup_v of entity PULLUP [pullup_default]
+Compiling architecture pulldown_v of entity PULLDOWN [pulldown_default]
+Compiling architecture behavioral of entity Adder_3_bit_MUSER_NanoProcessor [adder_3_bit_muser_nanoprocessor_...]
+Compiling architecture fdc_v of entity FDC [\FDC('0')\]
+Compiling architecture behavioral of entity PC_new_MUSER_NanoProcessor [pc_new_muser_nanoprocessor_defau...]
+Compiling architecture behavioral of entity Reg_4_MUSER_NanoProcessor [reg_4_muser_nanoprocessor_defaul...]
+Compiling architecture and3_v of entity AND3 [and3_default]
+Compiling architecture behavioral of entity Decoder_2_to_4_MUSER_NanoProcessor [decoder_2_to_4_muser_nanoprocess...]
+Compiling architecture behavioral of entity Decoder_3_to_8_MUSER_NanoProcessor [decoder_3_to_8_muser_nanoprocess...]
+Compiling architecture gnd_v of entity GND [gnd_default]
+Compiling architecture behavioral of entity Four_bit_zero_reg_MUSER_NanoProcessor [four_bit_zero_reg_muser_nanoproc...]
+Compiling architecture vcc_v of entity VCC [vcc_default]
+Compiling architecture behavioral of entity Reg_Bank_MUSER_NanoProcessor [reg_bank_muser_nanoprocessor_def...]
+Compiling architecture fmap_v of entity FMAP [fmap_default]
+Compiling architecture or4_v of entity OR4 [or4_default]
+Compiling architecture behavioral of entity OR8_MXILINX_NanoProcessor [or8_mxilinx_nanoprocessor_defaul...]
+Compiling architecture behavioral of entity Mux_8_to_1_MUSER_NanoProcessor [mux_8_to_1_muser_nanoprocessor_d...]
+Compiling architecture behavioral of entity Mux_8_1_4bit_MUSER_NanoProcessor [mux_8_1_4bit_muser_nanoprocessor...]
+Compiling package textio
+Compiling package vital_timing
+Compiling package vital_primitives
+Compiling package vpkg
+Compiling architecture rom16x1_v of entity ROM16X1 [\ROM16X1("0000000001100011")(0,1...]
+Compiling architecture behavioral of entity ROMM_MUSER_NanoProcessor [romm_muser_nanoprocessor_default]
+Compiling architecture nor4_v of entity NOR4 [nor4_default]
+Compiling architecture and4_v of entity AND4 [and4_default]
+Compiling architecture or3_v of entity OR3 [or3_default]
+Compiling architecture behavioral of entity new_Ins_dec_MUSER_NanoProcessor [new_ins_dec_muser_nanoprocessor_...]
+Compiling architecture behavioral of entity NanoProcessor [nanoprocessor_default]
+Compiling architecture behavioral of entity nanoprocessor_nanoprocessor_sch_...
+Time Resolution for simulation is 1ps.
+Waiting for 32 sub-compilation(s) to finish...
+Compiled 97 VHDL Units
+Built simulation executable D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor_NanoProcessor_sch_tb_isim_beh.exe
+Fuse Memory Usage: 57804 KB
+Fuse CPU Usage: 1902 ms

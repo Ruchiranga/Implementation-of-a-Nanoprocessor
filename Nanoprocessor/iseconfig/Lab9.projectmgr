@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Lab9" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Add_Sub_4_bit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Add_Sub_4_bit.sch</ClosedNode>
+         <ClosedNode>/Add_Sub_4_bit_Add_Sub_4_bit_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Add_Sub_4_TB.vhd/UUT - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/Adder_3_bit C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Adder_3_bit.sch</ClosedNode>
+         <ClosedNode>/Adder_3_bit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Adder_3_bit.sch</ClosedNode>
+         <ClosedNode>/FOUR_RCA D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|FOUR_RCA.sch</ClosedNode>
+         <ClosedNode>/Instru_Dec D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Instru_Dec.sch</ClosedNode>
+         <ClosedNode>/Mux_2_3 D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Mux_2_3.sch</ClosedNode>
+         <ClosedNode>/Mux_8_1_4bit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Mux_8_1_4bit.sch/XLXI_3 - Mux_8_to_1</ClosedNode>
+         <ClosedNode>/Mux_8_1_4bit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Mux_8_1_4bit.sch/XLXI_4 - Mux_8_to_1</ClosedNode>
+         <ClosedNode>/Mux_8_1_4bit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Mux_8_1_4bit.sch/XLXI_5 - Mux_8_to_1</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|NanoProcessor.sch/XLXI_1 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|NanoProcessor.sch/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|NanoProcessor.sch/XLXI_2 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|NanoProcessor.sch/XLXI_3 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|NanoProcessor.sch/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|NanoProcessor.sch/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|NanoProcessor.sch/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|NanoProcessor.sch/XLXI_6 - Instruction_Decoder</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_1 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_2 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_3 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_38 - Add_Sub</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_39 - Add_Sub</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_5 - Add_Sub</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_51 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_56 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_57 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_6 - Instruction_Decoder</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoProcessor.sch</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_2 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_3 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_40 - Add_Sub_4_bit/XLXI_6 - FOUR_RCA</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_51 - Reg_bank/XLXI_16 - Decoder_3_to_8</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_51 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_56 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_57 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_67 - Instru_Dec</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_68 - Instru_Dec</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_70 - new_Ins_dec</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_1 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_2 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_2 - Mux_8_1_4bit/XLXI_1 - Mux_8_to_1</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_2 - Mux_8_1_4bit/XLXI_3 - Mux_8_to_1</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_2 - Mux_8_1_4bit/XLXI_4 - Mux_8_to_1</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_2 - Mux_8_1_4bit/XLXI_5 - Mux_8_to_1</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_3 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch/XLXI_6 - Instruction_Decoder</ClosedNode>
+         <ClosedNode>/NanoProcessor F:|Com Architecture Microprocessor Final|Lab9|NanoProcessor.sch/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor F:|Com Architecture Microprocessor Final|Lab9|NanoProcessor.sch/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor F:|Com Architecture Microprocessor Final|Lab9|NanoProcessor.sch/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor F:|Com Architecture Microprocessor Final|Lab9|NanoProcessor.sch/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor F:|Com Architecture Microprocessor Final|Lab9|NanoProcessor.sch/XLXI_51 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor F:|Com Architecture Microprocessor Final|Lab9|NanoProcessor.sch/XLXI_56 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor F:|Com Architecture Microprocessor Final|Lab9|NanoProcessor.sch/XLXI_57 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/ROM_ROM_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|TB_ROM.vhd</ClosedNode>
+         <ClosedNode>/Reg_bank D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Reg_bank.sch</ClosedNode>
+         <ClosedNode>/Reg_bank E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|Reg_bank.sch</ClosedNode>
+         <ClosedNode>/Reg_bank E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|Reg_bank.sch/XLXI_16 - Decoder_3_to_8</ClosedNode>
+         <ClosedNode>/Reg_bank_Reg_bank_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|TB_RegBank.vhd</ClosedNode>
+         <ClosedNode>/Tally_Circuit C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Tally_Circuit.sch</ClosedNode>
+         <ClosedNode>/Tally_Circuit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Tally_Circuit.sch</ClosedNode>
+         <ClosedNode>/Tally_Circuit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|Tally_Circuit.sch</ClosedNode>
+         <ClosedNode>/Tally_Circuit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|Tally_Circuit.sch</ClosedNode>
+         <ClosedNode>/Tally_Circuit E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|Tally_Circuit.sch</ClosedNode>
+         <ClosedNode>/bit_adder_3 D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|bit_adder_3.sch</ClosedNode>
+         <ClosedNode>/bit_adder_3 D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|bit_adder_3.sch</ClosedNode>
+         <ClosedNode>/bit_adder_3 D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|bit_adder_3.sch</ClosedNode>
+         <ClosedNode>/bit_adder_3 E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|bit_adder_3.sch</ClosedNode>
+         <ClosedNode>/new_Ins_dec D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|new_Ins_dec.sch</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>XLXI_70 - new_Ins_dec (F:/Com Architecture Microprocessor Final/Lab9/new_Ins_dec.sch)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >13</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000169000000020000000000000000000000000200000064ffffffff000000810000000300000002000001690000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>XLXI_70 - new_Ins_dec (F:/Com Architecture Microprocessor Final/Lab9/new_Ins_dec.sch)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Update All Schematic Files</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Update All Schematic Files</CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000218000000040101000100000000000000000000000064ffffffff0000008100000000000000040000004200000001000000000000002400000001000000000000006600000001000000000000014c0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Adder_3_bit.sch</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000229000000010001000100000000000000000000000064ffffffff000000810000000000000001000002290000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000229000000010000000100000000000000000000000064ffffffff000000810000000000000001000002290000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000000f6000000c701000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Add_Sub_4_bit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Add_Sub_4_bit.sch</ClosedNode>
+         <ClosedNode>/Add_Sub_4_bit_Add_Sub_4_bit_sch_tb - behavioral C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Add_Sub_4_TB.vhd</ClosedNode>
+         <ClosedNode>/Add_Sub_4_bit_Add_Sub_4_bit_sch_tb - behavioral D:|Anu pen backup|dennam hari|ammo ethi yantham|Microprocessor 2|Lab9|Add_Sub_4_TB.vhd</ClosedNode>
+         <ClosedNode>/Add_Sub_4_bit_Add_Sub_4_bit_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Add_Sub_4_TB.vhd</ClosedNode>
+         <ClosedNode>/Add_Sub_4_bit_Add_Sub_4_bit_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Add_Sub_4_TB.vhd/UUT - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/Add_Sub_4_bit_Add_Sub_4_bit_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|Add_Sub_4_TB.vhd</ClosedNode>
+         <ClosedNode>/Add_Sub_4_bit_Add_Sub_4_bit_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|Add_Sub_4_TB.vhd</ClosedNode>
+         <ClosedNode>/Add_Sub_4_bit_Add_Sub_4_bit_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|ammo ethi yantham|Microprocessor 2|Lab9|Add_Sub_4_TB.vhd</ClosedNode>
+         <ClosedNode>/Add_Sub_4_bit_Add_Sub_4_bit_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|Add_Sub_4_TB.vhd</ClosedNode>
+         <ClosedNode>/Add_Sub_4_bit_Add_Sub_4_bit_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|Add_Sub_4_TB.vhd/UUT - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/Adder_3_bit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Adder_3_bit.sch</ClosedNode>
+         <ClosedNode>/Four_bit_register_Four_bit_register_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|Nano_TB.vhd</ClosedNode>
+         <ClosedNode>/Instru_Dec_Instru_Dec_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|TB_hariyannakoooo.vhd</ClosedNode>
+         <ClosedNode>/Instru_Dec_Instru_Dec_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|balamuTB.vhd</ClosedNode>
+         <ClosedNode>/Instru_Dec_Instru_Dec_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|grrrr.vhd</ClosedNode>
+         <ClosedNode>/Instru_Dec_Instru_Dec_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|kkkkl.vhd</ClosedNode>
+         <ClosedNode>/Instruction_Decoder D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Instruction_Decoder.sch</ClosedNode>
+         <ClosedNode>/Instruction_Decoder_Instruction_Decoder_sch_tb - behavioral C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Inst_Decoder_TB.vhd/UUT - Instruction_Decoder</ClosedNode>
+         <ClosedNode>/Instruction_Decoder_Instruction_Decoder_sch_tb - behavioral D:|Anu pen backup|dennam hari|ammo ethi yantham|Microprocessor 2|Lab9|Inst_Decoder_TB.vhd</ClosedNode>
+         <ClosedNode>/Instruction_Decoder_Instruction_Decoder_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Inst_Decoder_TB.vhd/UUT - Instruction_Decoder</ClosedNode>
+         <ClosedNode>/Instruction_Decoder_Instruction_Decoder_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|Inst_Decoder_TB.vhd</ClosedNode>
+         <ClosedNode>/Instruction_Decoder_Instruction_Decoder_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|ammo ethi yantham|Microprocessor 2|Lab9|Inst_Decoder_TB.vhd</ClosedNode>
+         <ClosedNode>/Instruction_Decoder_Instruction_Decoder_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|Inst_Decoder_TB.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_51 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_56 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoProcessor.sch/XLXI_57 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoProcessor.sch</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_51 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_56 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_57 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor.sch/XLXI_67 - Instru_Dec</ClosedNode>
+         <ClosedNode>/NanoProcessor E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|NanoProcessor.sch</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Nanoprocessor_TB.vhd/UUT - NanoProcessor/XLXI_1 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Nanoprocessor_TB.vhd/UUT - NanoProcessor/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Nanoprocessor_TB.vhd/UUT - NanoProcessor/XLXI_2 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Nanoprocessor_TB.vhd/UUT - NanoProcessor/XLXI_3 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Nanoprocessor_TB.vhd/UUT - NanoProcessor/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Nanoprocessor_TB.vhd/UUT - NanoProcessor/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Nanoprocessor_TB.vhd/UUT - NanoProcessor/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Nanoprocessor_TB.vhd/UUT - NanoProcessor/XLXI_6 - Instruction_Decoder</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|MalaNanoTB.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoPRocessorTB.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NanoproTBB.vhd/UUT - NanoProcessor</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|NewDecoderTest_TB.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|nanoimfeduplasttime.vhd/UUT - NanoProcessor</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|nanooooooo.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoproTBB.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoproTBB.vhd/UUT - NanoProcessor/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoproTBB.vhd/UUT - NanoProcessor/XLXI_2 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoproTBB.vhd/UUT - NanoProcessor/XLXI_3 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoproTBB.vhd/UUT - NanoProcessor/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoproTBB.vhd/UUT - NanoProcessor/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoproTBB.vhd/UUT - NanoProcessor/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoproTBB.vhd/UUT - NanoProcessor/XLXI_51 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|NanoproTBB.vhd/UUT - NanoProcessor/XLXI_6 - Instruction_Decoder</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|Nanoproce_TB.vhd/UUT - NanoProcessor</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|hureTB.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|nano_dannanathi_TB.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|nano_dannanathi_TB.vhd/UUT - NanoProcessor</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|NanoProcessor_TB.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|aaaaa.vhd/UUT - NanoProcessor/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|aaaaa.vhd/UUT - NanoProcessor/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|aaaaa.vhd/UUT - NanoProcessor/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|aaaaa.vhd/UUT - NanoProcessor/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|aaaaa.vhd/UUT - NanoProcessor/XLXI_51 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|aaaaa.vhd/UUT - NanoProcessor/XLXI_56 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|aaaaa.vhd/UUT - NanoProcessor/XLXI_57 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|aaaaa.vhd/UUT - NanoProcessor/XLXI_67 - Instru_Dec</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|maytheforcebewithme.vhd/UUT - NanoProcessor/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|maytheforcebewithme.vhd/UUT - NanoProcessor/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|maytheforcebewithme.vhd/UUT - NanoProcessor/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|maytheforcebewithme.vhd/UUT - NanoProcessor/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|maytheforcebewithme.vhd/UUT - NanoProcessor/XLXI_51 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|maytheforcebewithme.vhd/UUT - NanoProcessor/XLXI_56 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|maytheforcebewithme.vhd/UUT - NanoProcessor/XLXI_57 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|maytheforcebewithme.vhd/UUT - NanoProcessor/XLXI_67 - Instru_Dec</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|mmmmmmm.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|nanoimfeduplasttime.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|nanoimfeduplasttime.vhd/UUT - NanoProcessor/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|nanoimfeduplasttime.vhd/UUT - NanoProcessor/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|nanoimfeduplasttime.vhd/UUT - NanoProcessor/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|nanoimfeduplasttime.vhd/UUT - NanoProcessor/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|nanoimfeduplasttime.vhd/UUT - NanoProcessor/XLXI_51 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|nanoimfeduplasttime.vhd/UUT - NanoProcessor/XLXI_56 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|nanoimfeduplasttime.vhd/UUT - NanoProcessor/XLXI_57 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|nanoimfeduplasttime.vhd/UUT - NanoProcessor/XLXI_67 - Instru_Dec</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|nnnnnnnn.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|oooop.vhd/UUT - NanoProcessor/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|oooop.vhd/UUT - NanoProcessor/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|oooop.vhd/UUT - NanoProcessor/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|oooop.vhd/UUT - NanoProcessor/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|oooop.vhd/UUT - NanoProcessor/XLXI_51 - Reg_bank</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|oooop.vhd/UUT - NanoProcessor/XLXI_56 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|oooop.vhd/UUT - NanoProcessor/XLXI_57 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|oooop.vhd/UUT - NanoProcessor/XLXI_70 - new_Ins_dec</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|oooopsss.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|pppppp.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|ammo ethi yantham|Microprocessor 2|Lab9|NanoproTBB.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|TB_nan.vhd/UUT - NanoProcessor/XLXI_12 - Mux_2_3</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|TB_nan.vhd/UUT - NanoProcessor/XLXI_2 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|TB_nan.vhd/UUT - NanoProcessor/XLXI_3 - Mux_8_1_4bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|TB_nan.vhd/UUT - NanoProcessor/XLXI_4 - Mux_2_4</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|TB_nan.vhd/UUT - NanoProcessor/XLXI_40 - Add_Sub_4_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|TB_nan.vhd/UUT - NanoProcessor/XLXI_43 - Adder_3_bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|TB_nan.vhd/UUT - NanoProcessor/XLXI_6 - Instruction_Decoder</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|hapoiTB.vhd/UUT - NanoProcessor</ClosedNode>
+         <ClosedNode>/ROM_ROM_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|TB_ROM.vhd</ClosedNode>
+         <ClosedNode>/ROM_ROM_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|TB_ROM.vhd</ClosedNode>
+         <ClosedNode>/ROM_ROM_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|TB_ROM.vhd</ClosedNode>
+         <ClosedNode>/Reg_bank_Reg_bank_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|TB_RegBank.vhd</ClosedNode>
+         <ClosedNode>/Reg_bank_Reg_bank_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|TB_RegBank.vhd</ClosedNode>
+         <ClosedNode>/Reg_bank_Reg_bank_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|TB_RegBank.vhd</ClosedNode>
+         <ClosedNode>/Reg_bank_Reg_bank_sch_tb - behavioral E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|TB_RegBank.vhd</ClosedNode>
+         <ClosedNode>/Tally_Circuit C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|Tally_Circuit.sch</ClosedNode>
+         <ClosedNode>/Tally_Circuit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|Tally_Circuit.sch</ClosedNode>
+         <ClosedNode>/Tally_Circuit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|Tally_Circuit.sch</ClosedNode>
+         <ClosedNode>/Tally_Circuit D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|Tally_Circuit.sch</ClosedNode>
+         <ClosedNode>/Tally_Circuit E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|Tally_Circuit.sch</ClosedNode>
+         <ClosedNode>/bit_adder_3 C:|Documents and Settings|120706N|Desktop|Microprocessor|Lab9|bit_adder_3.sch</ClosedNode>
+         <ClosedNode>/bit_adder_3 D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|Lab9|bit_adder_3.sch</ClosedNode>
+         <ClosedNode>/bit_adder_3 D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|ammo ethi yantham|Microprocessor 2|Lab9|bit_adder_3.sch</ClosedNode>
+         <ClosedNode>/bit_adder_3 D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|bit_adder_3.sch</ClosedNode>
+         <ClosedNode>/bit_adder_3 E:|My semester2|Computer Architecher|Lab|Lab 9|complete|Microprocessor 2|Lab9|bit_adder_3.sch</ClosedNode>
+         <ClosedNode>/new_Ins_dec D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|new_Ins_dec.sch</ClosedNode>
+         <ClosedNode>/new_Ins_dec_new_Ins_dec_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|ithinkright.vhd</ClosedNode>
+         <ClosedNode>/new_Ins_dec_new_Ins_dec_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|newinsdecTB.vhd</ClosedNode>
+         <ClosedNode>/new_Ins_dec_new_Ins_dec_sch_tb - behavioral D:|My stuff|Uni|Semester 2|Computer Architecture|Lab|Microprocessor|denwath hariyannakoooo|denwath hariyannakoooo|thama hari netho|Lab9|oooooooooo.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>NanoProcessor_NanoProcessor_sch_tb - behavioral (D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor_TB.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >21</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001d7000000020000000000000000000000000200000064ffffffff000000810000000300000002000001d70000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>NanoProcessor_NanoProcessor_sch_tb - behavioral (D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor_TB.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="ManualCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>xc3s100e-4cp132</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000013f000000020000000000000000000000000000000064ffffffff000000810000000000000002000000cd0000000100000000000000720000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>xc3s100e-4cp132</CurrentItem>
+   </ItemView>
+</Project>

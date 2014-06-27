@@ -1,0 +1,12 @@
+NET "DECO_CLK" LOC = "G12";
+NET "REG_CLK" LOC = "C11";
+NET "PC_CLK" LOC = "M4";
+NET "R7out(0)" LOC = "M5";
+NET "R7out(1)" LOC = "M11";
+NET "R7out(2)" LOC = "P7";
+NET "R7out(3)" LOC = "P6";
+NET "C_out" LOC = "G1";
+NET "Reg_CLR" LOC = "P11";
+NET "CLR_PC" LOC = "L3";
+
+NET "DECO_CLK" CLOCK_DEDICATED_ROUTE = FALSE;

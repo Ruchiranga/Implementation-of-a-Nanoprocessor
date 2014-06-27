@@ -1,0 +1,3 @@
+MODULE new_Ins_dec
+	SUBMODULE Decoder_2_to_4
+		INSTANCE XLXI_203

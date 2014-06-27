@@ -1,0 +1,3 @@
+vhdl isim_temp "Mux_2to1.vhf"
+vhdl isim_temp "Mux_2_3.vhf"
+vhdl isim_temp "Mux_2_3_TB.vhd"

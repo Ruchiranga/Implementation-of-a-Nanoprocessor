@@ -1,0 +1,471 @@
+V3 200
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Adder_3_bit.vhf" 2014/05/15.16:37:59 P.20131013
+EN work/HA_MUSER_Adder_3_bit 1400178037 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Adder_3_bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/HA_MUSER_Adder_3_bit/BEHAVIORAL 1400178038 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Adder_3_bit.vhf" \
+      EN work/HA_MUSER_Adder_3_bit 1400178037 CP AND2 CP XOR2
+EN work/FA_MUSER_Adder_3_bit 1400178039 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Adder_3_bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FA_MUSER_Adder_3_bit/BEHAVIORAL 1400178040 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Adder_3_bit.vhf" \
+      EN work/FA_MUSER_Adder_3_bit 1400178039 CP HA_MUSER_Adder_3_bit CP OR2
+EN work/Adder_3_bit 1400178041 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Adder_3_bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Adder_3_bit/BEHAVIORAL 1400178042 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Adder_3_bit.vhf" \
+      EN work/Adder_3_bit 1400178041 CP FA_MUSER_Adder_3_bit CP PULLUP CP PULLDOWN
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Add_Sub_4_bit.vhf" 2014/05/15.16:38:00 P.20131013
+EN work/HA_MUSER_Add_Sub_4_bit 1400178043 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Add_Sub_4_bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/HA_MUSER_Add_Sub_4_bit/BEHAVIORAL 1400178044 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Add_Sub_4_bit.vhf" \
+      EN work/HA_MUSER_Add_Sub_4_bit 1400178043 CP AND2 CP XOR2
+EN work/FA_MUSER_Add_Sub_4_bit 1400178045 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Add_Sub_4_bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FA_MUSER_Add_Sub_4_bit/BEHAVIORAL 1400178046 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Add_Sub_4_bit.vhf" \
+      EN work/FA_MUSER_Add_Sub_4_bit 1400178045 CP HA_MUSER_Add_Sub_4_bit CP OR2
+EN work/FOUR_RCA_MUSER_Add_Sub_4_bit 1400178047 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Add_Sub_4_bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FOUR_RCA_MUSER_Add_Sub_4_bit/BEHAVIORAL 1400178048 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Add_Sub_4_bit.vhf" \
+      EN work/FOUR_RCA_MUSER_Add_Sub_4_bit 1400178047 CP FA_MUSER_Add_Sub_4_bit
+EN work/Add_Sub_4_bit 1400178049 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Add_Sub_4_bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Add_Sub_4_bit/BEHAVIORAL 1400178050 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Add_Sub_4_bit.vhf" \
+      EN work/Add_Sub_4_bit 1400178049 CP FOUR_RCA_MUSER_Add_Sub_4_bit CP XOR2
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Decoder_2_to_4.vhf" 2014/05/15.16:37:52 P.20131013
+EN work/Decoder_2_to_4 1400178115 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Decoder_2_to_4.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4/BEHAVIORAL 1400178116 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Decoder_2_to_4.vhf" \
+      EN work/Decoder_2_to_4 1400178115 CP AND3 CP INV
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Decoder_3_to_8.vhf" 2014/05/15.16:37:59 P.20131013
+EN work/Decoder_2_to_4_MUSER_Decoder_3_to_8 1400178107 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Decoder_3_to_8.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4_MUSER_Decoder_3_to_8/BEHAVIORAL 1400178108 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Decoder_3_to_8.vhf" \
+      EN work/Decoder_2_to_4_MUSER_Decoder_3_to_8 1400178107 CP AND3 CP INV
+EN work/Decoder_3_to_8 1400178109 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Decoder_3_to_8.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_3_to_8/BEHAVIORAL 1400178110 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Decoder_3_to_8.vhf" \
+      EN work/Decoder_3_to_8 1400178109 CP Decoder_2_to_4_MUSER_Decoder_3_to_8 \
+      CP INV CP AND2
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FA.vhf" 2014/05/15.16:38:00 P.20131013
+EN work/HA_MUSER_FA 1400178111 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/HA_MUSER_FA/BEHAVIORAL 1400178112 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FA.vhf" \
+      EN work/HA_MUSER_FA 1400178111 CP AND2 CP XOR2
+EN work/FA 1400178113 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FA/BEHAVIORAL 1400178114 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FA.vhf" \
+      EN work/FA 1400178113 CP HA_MUSER_FA CP OR2
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Four_bit_zero_reg.vhf" 2014/05/15.16:37:54 P.20131013
+EN work/Four_bit_zero_reg 1400178087 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Four_bit_zero_reg.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Four_bit_zero_reg/BEHAVIORAL 1400178088 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Four_bit_zero_reg.vhf" \
+      EN work/Four_bit_zero_reg 1400178087 CP FDC CP AND2 CP GND
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FOUR_RCA.vhf" 2014/05/15.16:37:59 P.20131013
+EN work/HA_MUSER_FOUR_RCA 1400178089 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FOUR_RCA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/HA_MUSER_FOUR_RCA/BEHAVIORAL 1400178090 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FOUR_RCA.vhf" \
+      EN work/HA_MUSER_FOUR_RCA 1400178089 CP AND2 CP XOR2
+EN work/FA_MUSER_FOUR_RCA 1400178091 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FOUR_RCA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FA_MUSER_FOUR_RCA/BEHAVIORAL 1400178092 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FOUR_RCA.vhf" \
+      EN work/FA_MUSER_FOUR_RCA 1400178091 CP HA_MUSER_FOUR_RCA CP OR2
+EN work/FOUR_RCA 1400178093 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FOUR_RCA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FOUR_RCA/BEHAVIORAL 1400178094 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/FOUR_RCA.vhf" \
+      EN work/FOUR_RCA 1400178093 CP FA_MUSER_FOUR_RCA
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/HA.vhf" 2014/05/15.16:37:54 P.20131013
+EN work/HA 1400178117 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/HA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/HA/BEHAVIORAL 1400178118 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/HA.vhf" \
+      EN work/HA 1400178117 CP AND2 CP XOR2
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2to1.vhf" 2014/05/15.16:37:55 P.20131013
+EN work/Mux_2to1 1400178095 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2to1.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2to1/BEHAVIORAL 1400178096 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2to1.vhf" \
+      EN work/Mux_2to1 1400178095 CP AND2 CP INV CP OR2
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2_3.vhf" 2014/05/15.16:38:00 P.20131013
+EN work/Mux_2to1_MUSER_Mux_2_3 1400178051 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2_3.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2to1_MUSER_Mux_2_3/BEHAVIORAL 1400178052 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2_3.vhf" \
+      EN work/Mux_2to1_MUSER_Mux_2_3 1400178051 CP AND2 CP INV CP OR2
+EN work/Mux_2_3 1400178053 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2_3.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2_3/BEHAVIORAL 1400178054 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2_3.vhf" \
+      EN work/Mux_2_3 1400178053 CP Mux_2to1_MUSER_Mux_2_3
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2_4.vhf" 2014/05/15.16:38:00 P.20131013
+EN work/Mux_2to1_MUSER_Mux_2_4 1400178055 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2_4.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2to1_MUSER_Mux_2_4/BEHAVIORAL 1400178056 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2_4.vhf" \
+      EN work/Mux_2to1_MUSER_Mux_2_4 1400178055 CP AND2 CP INV CP OR2
+EN work/Mux_2_4 1400178057 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2_4.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2_4/BEHAVIORAL 1400178058 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_2_4.vhf" \
+      EN work/Mux_2_4 1400178057 CP Mux_2to1_MUSER_Mux_2_4
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_1_4bit.vhf" 2014/05/15.16:37:59 P.20131013
+EN work/OR8_MXILINX_Mux_8_1_4bit 1400178059 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_1_4bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/OR8_MXILINX_Mux_8_1_4bit/BEHAVIORAL 1400178060 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_1_4bit.vhf" \
+      EN work/OR8_MXILINX_Mux_8_1_4bit 1400178059 CP FMAP CP OR2 CP OR4
+EN work/Decoder_2_to_4_MUSER_Mux_8_1_4bit 1400178061 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_1_4bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4_MUSER_Mux_8_1_4bit/BEHAVIORAL 1400178062 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_1_4bit.vhf" \
+      EN work/Decoder_2_to_4_MUSER_Mux_8_1_4bit 1400178061 CP AND3 CP INV
+EN work/Decoder_3_to_8_MUSER_Mux_8_1_4bit 1400178063 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_1_4bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_3_to_8_MUSER_Mux_8_1_4bit/BEHAVIORAL 1400178064 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_1_4bit.vhf" \
+      EN work/Decoder_3_to_8_MUSER_Mux_8_1_4bit 1400178063 \
+      CP Decoder_2_to_4_MUSER_Mux_8_1_4bit CP INV CP AND2
+EN work/Mux_8_to_1_MUSER_Mux_8_1_4bit 1400178065 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_1_4bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_8_to_1_MUSER_Mux_8_1_4bit/BEHAVIORAL 1400178066 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_1_4bit.vhf" \
+      EN work/Mux_8_to_1_MUSER_Mux_8_1_4bit 1400178065 \
+      CP Decoder_3_to_8_MUSER_Mux_8_1_4bit CP AND2 CP OR8_MXILINX_Mux_8_1_4bit
+EN work/Mux_8_1_4bit 1400178067 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_1_4bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_8_1_4bit/BEHAVIORAL 1400178068 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_1_4bit.vhf" \
+      EN work/Mux_8_1_4bit 1400178067 CP Mux_8_to_1_MUSER_Mux_8_1_4bit CP VCC
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_to_1.vhf" 2014/05/15.16:37:58 P.20131013
+EN work/OR8_MXILINX_Mux_8_to_1 1400178097 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_to_1.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/OR8_MXILINX_Mux_8_to_1/BEHAVIORAL 1400178098 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_to_1.vhf" \
+      EN work/OR8_MXILINX_Mux_8_to_1 1400178097 CP FMAP CP OR2 CP OR4
+EN work/Decoder_2_to_4_MUSER_Mux_8_to_1 1400178099 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_to_1.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4_MUSER_Mux_8_to_1/BEHAVIORAL 1400178100 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_to_1.vhf" \
+      EN work/Decoder_2_to_4_MUSER_Mux_8_to_1 1400178099 CP AND3 CP INV
+EN work/Decoder_3_to_8_MUSER_Mux_8_to_1 1400178101 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_to_1.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_3_to_8_MUSER_Mux_8_to_1/BEHAVIORAL 1400178102 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_to_1.vhf" \
+      EN work/Decoder_3_to_8_MUSER_Mux_8_to_1 1400178101 \
+      CP Decoder_2_to_4_MUSER_Mux_8_to_1 CP INV CP AND2
+EN work/Mux_8_to_1 1400178103 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_to_1.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_8_to_1/BEHAVIORAL 1400178104 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Mux_8_to_1.vhf" \
+      EN work/Mux_8_to_1 1400178103 CP Decoder_3_to_8_MUSER_Mux_8_to_1 CP AND2 \
+      CP OR8_MXILINX_Mux_8_to_1
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" 2014/05/15.17:14:18 P.20131013
+EN work/Decoder_2_to_4_MUSER_NanoProcessor 1400177997 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4_MUSER_NanoProcessor/BEHAVIORAL 1400177998 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/Decoder_2_to_4_MUSER_NanoProcessor 1400177997 CP AND3 CP INV
+EN work/new_Ins_dec_MUSER_NanoProcessor 1400177999 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/new_Ins_dec_MUSER_NanoProcessor/BEHAVIORAL 1400178000 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/new_Ins_dec_MUSER_NanoProcessor 1400177999 CP VCC CP NOR4 CP INV \
+      CP AND4 CP AND2 CP AND3 CP OR3 CP FDC CP GND CP OR2 \
+      CP Decoder_2_to_4_MUSER_NanoProcessor
+EN work/ROMM_MUSER_NanoProcessor 1400178001 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/ROMM_MUSER_NanoProcessor/BEHAVIORAL 1400178002 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/ROMM_MUSER_NanoProcessor 1400178001 CP ROM16X1 CP GND
+EN work/OR8_MXILINX_NanoProcessor 1400178003 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/OR8_MXILINX_NanoProcessor/BEHAVIORAL 1400178004 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/OR8_MXILINX_NanoProcessor 1400178003 CP FMAP CP OR2 CP OR4
+EN work/Decoder_3_to_8_MUSER_NanoProcessor 1400178005 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_3_to_8_MUSER_NanoProcessor/BEHAVIORAL 1400178006 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/Decoder_3_to_8_MUSER_NanoProcessor 1400178005 \
+      CP Decoder_2_to_4_MUSER_NanoProcessor CP INV CP AND2
+EN work/Mux_8_to_1_MUSER_NanoProcessor 1400178007 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_8_to_1_MUSER_NanoProcessor/BEHAVIORAL 1400178008 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/Mux_8_to_1_MUSER_NanoProcessor 1400178007 \
+      CP Decoder_3_to_8_MUSER_NanoProcessor CP AND2 CP OR8_MXILINX_NanoProcessor
+EN work/Mux_8_1_4bit_MUSER_NanoProcessor 1400178009 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_8_1_4bit_MUSER_NanoProcessor/BEHAVIORAL 1400178010 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/Mux_8_1_4bit_MUSER_NanoProcessor 1400178009 \
+      CP Mux_8_to_1_MUSER_NanoProcessor CP VCC
+EN work/Four_bit_zero_reg_MUSER_NanoProcessor 1400178011 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Four_bit_zero_reg_MUSER_NanoProcessor/BEHAVIORAL 1400178012 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/Four_bit_zero_reg_MUSER_NanoProcessor 1400178011 CP FDC CP AND2 \
+      CP GND
+EN work/Reg_4_MUSER_NanoProcessor 1400178013 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Reg_4_MUSER_NanoProcessor/BEHAVIORAL 1400178014 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/Reg_4_MUSER_NanoProcessor 1400178013 CP FDC CP AND2
+EN work/Reg_Bank_MUSER_NanoProcessor 1400178015 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Reg_Bank_MUSER_NanoProcessor/BEHAVIORAL 1400178016 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/Reg_Bank_MUSER_NanoProcessor 1400178015 \
+      CP Reg_4_MUSER_NanoProcessor CP Decoder_3_to_8_MUSER_NanoProcessor \
+      CP Four_bit_zero_reg_MUSER_NanoProcessor CP VCC
+EN work/PC_new_MUSER_NanoProcessor 1400178017 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/PC_new_MUSER_NanoProcessor/BEHAVIORAL 1400178018 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/PC_new_MUSER_NanoProcessor 1400178017 CP FDC
+EN work/HA_MUSER_NanoProcessor 1400178019 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/HA_MUSER_NanoProcessor/BEHAVIORAL 1400178020 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/HA_MUSER_NanoProcessor 1400178019 CP AND2 CP XOR2
+EN work/FA_MUSER_NanoProcessor 1400178021 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FA_MUSER_NanoProcessor/BEHAVIORAL 1400178022 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/FA_MUSER_NanoProcessor 1400178021 CP HA_MUSER_NanoProcessor CP OR2
+EN work/Adder_3_bit_MUSER_NanoProcessor 1400178023 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Adder_3_bit_MUSER_NanoProcessor/BEHAVIORAL 1400178024 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/Adder_3_bit_MUSER_NanoProcessor 1400178023 \
+      CP FA_MUSER_NanoProcessor CP PULLUP CP PULLDOWN
+EN work/FOUR_RCA_MUSER_NanoProcessor 1400178025 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FOUR_RCA_MUSER_NanoProcessor/BEHAVIORAL 1400178026 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/FOUR_RCA_MUSER_NanoProcessor 1400178025 CP FA_MUSER_NanoProcessor
+EN work/Add_Sub_4_bit_MUSER_NanoProcessor 1400178027 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Add_Sub_4_bit_MUSER_NanoProcessor/BEHAVIORAL 1400178028 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/Add_Sub_4_bit_MUSER_NanoProcessor 1400178027 \
+      CP FOUR_RCA_MUSER_NanoProcessor CP XOR2
+EN work/Mux_2to1_MUSER_NanoProcessor 1400178029 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2to1_MUSER_NanoProcessor/BEHAVIORAL 1400178030 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/Mux_2to1_MUSER_NanoProcessor 1400178029 CP AND2 CP INV CP OR2
+EN work/Mux_2_3_MUSER_NanoProcessor 1400178031 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2_3_MUSER_NanoProcessor/BEHAVIORAL 1400178032 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/Mux_2_3_MUSER_NanoProcessor 1400178031 \
+      CP Mux_2to1_MUSER_NanoProcessor
+EN work/Mux_2_4_MUSER_NanoProcessor 1400178033 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2_4_MUSER_NanoProcessor/BEHAVIORAL 1400178034 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/Mux_2_4_MUSER_NanoProcessor 1400178033 \
+      CP Mux_2to1_MUSER_NanoProcessor
+EN work/NanoProcessor 1400178035 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/NanoProcessor/BEHAVIORAL 1400178036 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/NanoProcessor.vhf" \
+      EN work/NanoProcessor 1400178035 CP Mux_2_4_MUSER_NanoProcessor \
+      CP Mux_2_3_MUSER_NanoProcessor CP Add_Sub_4_bit_MUSER_NanoProcessor \
+      CP Adder_3_bit_MUSER_NanoProcessor CP PC_new_MUSER_NanoProcessor \
+      CP Reg_Bank_MUSER_NanoProcessor CP Mux_8_1_4bit_MUSER_NanoProcessor \
+      CP ROMM_MUSER_NanoProcessor CP new_Ins_dec_MUSER_NanoProcessor
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/new_Ins_dec.vhf" 2014/05/15.16:37:55 P.20131013
+EN work/Decoder_2_to_4_MUSER_new_Ins_dec 1400178069 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/new_Ins_dec.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4_MUSER_new_Ins_dec/BEHAVIORAL 1400178070 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/new_Ins_dec.vhf" \
+      EN work/Decoder_2_to_4_MUSER_new_Ins_dec 1400178069 CP AND3 CP INV
+EN work/new_Ins_dec 1400178071 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/new_Ins_dec.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/new_Ins_dec/BEHAVIORAL 1400178072 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/new_Ins_dec.vhf" \
+      EN work/new_Ins_dec 1400178071 CP VCC CP NOR4 CP INV CP AND4 CP AND2 CP AND3 \
+      CP OR3 CP FDC CP GND CP OR2 CP Decoder_2_to_4_MUSER_new_Ins_dec
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/PC_new.vhf" 2014/05/15.16:37:53 P.20131013
+EN work/PC_new 1400178073 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/PC_new.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/PC_new/BEHAVIORAL 1400178074 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/PC_new.vhf" \
+      EN work/PC_new 1400178073 CP FDC
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_4.vhf" 2014/05/15.16:37:53 P.20131013
+EN work/Reg_4 1400178105 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_4.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Reg_4/BEHAVIORAL 1400178106 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_4.vhf" \
+      EN work/Reg_4 1400178105 CP FDC CP AND2
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_bank.vhf" 2014/05/15.16:37:58 P.20131013
+EN work/Four_bit_zero_reg_MUSER_Reg_bank 1400178075 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_bank.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Four_bit_zero_reg_MUSER_Reg_bank/BEHAVIORAL 1400178076 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_bank.vhf" \
+      EN work/Four_bit_zero_reg_MUSER_Reg_bank 1400178075 CP FDC CP AND2 CP GND
+EN work/Decoder_2_to_4_MUSER_Reg_bank 1400178077 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_bank.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4_MUSER_Reg_bank/BEHAVIORAL 1400178078 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_bank.vhf" \
+      EN work/Decoder_2_to_4_MUSER_Reg_bank 1400178077 CP AND3 CP INV
+EN work/Decoder_3_to_8_MUSER_Reg_bank 1400178079 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_bank.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_3_to_8_MUSER_Reg_bank/BEHAVIORAL 1400178080 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_bank.vhf" \
+      EN work/Decoder_3_to_8_MUSER_Reg_bank 1400178079 \
+      CP Decoder_2_to_4_MUSER_Reg_bank CP INV CP AND2
+EN work/Reg_4_MUSER_Reg_bank 1400178081 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_bank.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Reg_4_MUSER_Reg_bank/BEHAVIORAL 1400178082 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_bank.vhf" \
+      EN work/Reg_4_MUSER_Reg_bank 1400178081 CP FDC CP AND2
+EN work/Reg_bank 1400178083 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_bank.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Reg_bank/BEHAVIORAL 1400178084 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/Reg_bank.vhf" \
+      EN work/Reg_bank 1400178083 CP Reg_4_MUSER_Reg_bank \
+      CP Decoder_3_to_8_MUSER_Reg_bank CP Four_bit_zero_reg_MUSER_Reg_bank CP VCC
+FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/ROMM.vhf" 2014/05/15.16:37:52 P.20131013
+EN work/ROMM 1400178085 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/ROMM.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/ROMM/BEHAVIORAL 1400178086 \
+      FL "D:/My stuff/Uni/Semester 2/Computer Architecture/Lab/Microprocessor/denwath hariyannakoooo/denwath hariyannakoooo/thama hari netho/Lab9/ROMM.vhf" \
+      EN work/ROMM 1400178085 CP ROM16X1 CP GND

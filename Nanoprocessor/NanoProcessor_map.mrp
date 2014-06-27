@@ -1,0 +1,270 @@
+Release 14.7 Map P.20131013 (nt64)
+Xilinx Mapping Report File for Design 'NanoProcessor'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off
+-c 100 -o NanoProcessor_map.ncd NanoProcessor.ngd NanoProcessor.pcf 
+Target Device  : xc3s100e
+Target Package : cp132
+Target Speed   : -4
+Mapper Version : spartan3e -- $Revision: 1.55 $
+Mapped Date    : Thu May 15 23:54:44 2014
+
+Design Summary
+--------------
+Number of errors:      0
+Number of warnings:    7
+Logic Utilization:
+  Number of Slice Flip Flops:            44 out of   1,920    2%
+  Number of 4 input LUTs:               134 out of   1,920    6%
+Logic Distribution:
+  Number of occupied Slices:             86 out of     960    8%
+    Number of Slices containing only related logic:      86 out of      86 100%
+    Number of Slices containing unrelated logic:          0 out of      86   0%
+      *See NOTES below for an explanation of the effects of unrelated logic.
+  Total Number of 4 input LUTs:         134 out of   1,920    6%
+  Number of bonded IOBs:                 10 out of      83   12%
+  Number of BUFGMUXs:                     2 out of      24    8%
+
+  Number of RPM macros:            8
+Average Fanout of Non-Clock Nets:                3.37
+
+Peak Memory Usage:  269 MB
+Total REAL time to MAP completion:  2 secs 
+Total CPU time to MAP completion:   1 secs 
+
+NOTES:
+
+   Related logic is defined as being logic that shares connectivity - e.g. two
+   LUTs are "related" if they share common inputs.  When assembling slices,
+   Map gives priority to combine logic that is related.  Doing so results in
+   the best timing performance.
+
+   Unrelated logic shares no connectivity.  Map will only begin packing
+   unrelated logic into a slice once 99% of the slices are occupied through
+   related logic packing.
+
+   Note that once logic distribution reaches the 99% level through related
+   logic packing, this does not mean the device is completely utilized.
+   Unrelated logic packing will then begin, continuing until all usable LUTs
+   and FFs are occupied.  Depending on your timing budget, increased levels of
+   unrelated logic packing may adversely affect the overall timing performance
+   of your design.
+
+Table of Contents
+-----------------
+Section 1 - Errors
+Section 2 - Warnings
+Section 3 - Informational
+Section 4 - Removed Logic Summary
+Section 5 - Removed Logic
+Section 6 - IOB Properties
+Section 7 - RPMs
+Section 8 - Guide Report
+Section 9 - Area Group and Partition Summary
+Section 10 - Timing Report
+Section 11 - Configuration String Information
+Section 12 - Control Set Information
+Section 13 - Utilization by Hierarchy
+
+Section 1 - Errors
+------------------
+
+Section 2 - Warnings
+--------------------
+WARNING:PhysDesignRules:372 - Gated clock. Clock net XLXI_51/XLXI_5/XLXN_13 is
+   sourced by a combinatorial pin. This is not good design practice. Use the CE
+   pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net XLXI_51/XLXI_2/XLXN_13 is
+   sourced by a combinatorial pin. This is not good design practice. Use the CE
+   pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net XLXI_51/XLXI_8/XLXN_13 is
+   sourced by a combinatorial pin. This is not good design practice. Use the CE
+   pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net XLXI_51/XLXI_6/XLXN_13 is
+   sourced by a combinatorial pin. This is not good design practice. Use the CE
+   pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net XLXI_51/XLXI_7/XLXN_13 is
+   sourced by a combinatorial pin. This is not good design practice. Use the CE
+   pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net XLXI_51/XLXI_3/XLXN_13 is
+   sourced by a combinatorial pin. This is not good design practice. Use the CE
+   pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net XLXI_51/XLXI_4/XLXN_13 is
+   sourced by a combinatorial pin. This is not good design practice. Use the CE
+   pin to control the loading of data into the flip-flop.
+
+Section 3 - Informational
+-------------------------
+INFO:LIT:243 - Logical network XLXI_43/XLXN_31 has no load.
+INFO:MapLib:562 - No environment variables are currently set.
+INFO:LIT:244 - All of the single ended outputs in this design are using slew
+   rate limited output drivers. The delay on speed critical single ended outputs
+   can be dramatically reduced by designating them as fast outputs.
+
+Section 4 - Removed Logic Summary
+---------------------------------
+  22 block(s) removed
+  20 block(s) optimized away
+  21 signal(s) removed
+
+Section 5 - Removed Logic
+-------------------------
+
+The trimmed logic report below shows the logic removed from your design due to
+sourceless or loadless signals, and VCC or ground connections.  If the removal
+of a signal or symbol results in the subsequent removal of an additional signal
+or symbol, the message explaining that second removal will be indented.  This
+indentation will be repeated as a chain of related logic is removed.
+
+To quickly locate the original cause for the removal of a chain of logic, look
+above the place where that logic is listed in the trimming report, then locate
+the lines that are least indented (begin at the leftmost edge).
+
+The signal "XLXI_43/XLXN_31" is loadless and has been removed.
+ Loadless block "XLXI_43/XLXI_3/XLXI_3" (OR) removed.
+  The signal "XLXI_43/XLXI_3/XLXN_6" is loadless and has been removed.
+   Loadless block "XLXI_43/XLXI_3/XLXI_1/XLXI_1" (AND) removed.
+  The signal "XLXI_43/XLXI_3/XLXN_8" is loadless and has been removed.
+   Loadless block "XLXI_43/XLXI_3/XLXI_2/XLXI_1" (AND) removed.
+ Loadless block "XLXI_43/XLXI_13" (PULLDOWN) removed.
+The signal "XLXI_56/XLXI_5/XLXI_10/dummy" is sourceless and has been removed.
+The signal "XLXI_56/XLXI_4/XLXI_10/dummy" is sourceless and has been removed.
+The signal "XLXI_56/XLXI_3/XLXI_10/dummy" is sourceless and has been removed.
+The signal "XLXI_56/XLXI_1/XLXI_10/dummy" is sourceless and has been removed.
+The signal "XLXI_57/XLXI_5/XLXI_10/dummy" is sourceless and has been removed.
+The signal "XLXI_57/XLXI_4/XLXI_10/dummy" is sourceless and has been removed.
+The signal "XLXI_57/XLXI_3/XLXI_10/dummy" is sourceless and has been removed.
+The signal "XLXI_57/XLXI_1/XLXI_10/dummy" is sourceless and has been removed.
+
+The trimmed logic reported below is either:
+   1. part of a cycle
+   2. part of disabled logic
+   3. a side-effect of other trimmed logic
+
+The signal "XLXI_51/XLXI_28/XLXN_11" is unused and has been removed.
+ Unused block "XLXI_51/XLXI_28/XLXI_9" (AND) removed.
+  The signal "XLXI_51/XLXN_1" is unused and has been removed.
+   Unused block "XLXI_51/XLXI_16/XLXI_1/XLXI_1" (AND) removed.
+The signal "XLXI_56/XLXI_1/XLXN_23" is unused and has been removed.
+ Unused block "XLXI_56/XLXI_1/XLXI_1/XLXI_1/XLXI_1" (AND) removed.
+The signal "XLXI_56/XLXI_3/XLXN_23" is unused and has been removed.
+ Unused block "XLXI_56/XLXI_3/XLXI_1/XLXI_1/XLXI_1" (AND) removed.
+The signal "XLXI_56/XLXI_4/XLXN_23" is unused and has been removed.
+ Unused block "XLXI_56/XLXI_4/XLXI_1/XLXI_1/XLXI_1" (AND) removed.
+The signal "XLXI_56/XLXI_5/XLXN_23" is unused and has been removed.
+ Unused block "XLXI_56/XLXI_5/XLXI_1/XLXI_1/XLXI_1" (AND) removed.
+The signal "XLXI_57/XLXI_1/XLXN_23" is unused and has been removed.
+ Unused block "XLXI_57/XLXI_1/XLXI_1/XLXI_1/XLXI_1" (AND) removed.
+The signal "XLXI_57/XLXI_3/XLXN_23" is unused and has been removed.
+ Unused block "XLXI_57/XLXI_3/XLXI_1/XLXI_1/XLXI_1" (AND) removed.
+The signal "XLXI_57/XLXI_4/XLXN_23" is unused and has been removed.
+ Unused block "XLXI_57/XLXI_4/XLXI_1/XLXI_1/XLXI_1" (AND) removed.
+The signal "XLXI_57/XLXI_5/XLXN_23" is unused and has been removed.
+ Unused block "XLXI_57/XLXI_5/XLXI_1/XLXI_1/XLXI_1" (AND) removed.
+Unused block "XLXI_56/XLXI_1/XLXI_10/XST_GND" (ZERO) removed.
+Unused block "XLXI_56/XLXI_3/XLXI_10/XST_GND" (ZERO) removed.
+Unused block "XLXI_56/XLXI_4/XLXI_10/XST_GND" (ZERO) removed.
+Unused block "XLXI_56/XLXI_5/XLXI_10/XST_GND" (ZERO) removed.
+Unused block "XLXI_57/XLXI_1/XLXI_10/XST_GND" (ZERO) removed.
+Unused block "XLXI_57/XLXI_3/XLXI_10/XST_GND" (ZERO) removed.
+Unused block "XLXI_57/XLXI_4/XLXI_10/XST_GND" (ZERO) removed.
+Unused block "XLXI_57/XLXI_5/XLXI_10/XST_GND" (ZERO) removed.
+
+Optimized Block(s):
+TYPE 		BLOCK
+AND2 		XLXI_43/XLXI_1/XLXI_2/XLXI_1
+PULLDOWN 		XLXI_43/XLXI_10
+PULLDOWN 		XLXI_43/XLXI_11
+PULLDOWN 		XLXI_43/XLXI_12
+AND2 		XLXI_43/XLXI_2/XLXI_1/XLXI_1
+PULLUP 		XLXI_43/XLXI_6
+FDC 		XLXI_51/XLXI_28/XLXI_1
+   optimized to 0
+FDC 		XLXI_51/XLXI_28/XLXI_3
+   optimized to 0
+FDC 		XLXI_51/XLXI_28/XLXI_7
+   optimized to 0
+FDC 		XLXI_51/XLXI_28/XLXI_8
+   optimized to 0
+AND2 		XLXI_56/XLXI_1/XLXI_9
+VCC 		XLXI_56/XLXI_14
+AND2 		XLXI_56/XLXI_3/XLXI_9
+AND2 		XLXI_56/XLXI_4/XLXI_9
+AND2 		XLXI_56/XLXI_5/XLXI_9
+AND2 		XLXI_57/XLXI_1/XLXI_9
+AND2 		XLXI_57/XLXI_3/XLXI_9
+AND2 		XLXI_57/XLXI_4/XLXI_9
+AND2 		XLXI_57/XLXI_5/XLXI_9
+GND 		XLXI_61/XLXI_23
+
+To enable printing of redundant blocks removed and signals merged, set the
+detailed map report option and rerun map.
+
+Section 6 - IOB Properties
+--------------------------
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| IOB Name                           | Type             | Direction | IO Standard          | Diff  | Drive    | Slew | Reg (s)      | Resistor | IOB      |
+|                                    |                  |           |                      | Term  | Strength | Rate |              |          | Delay    |
++---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| CLR_PC                             | IBUF             | INPUT     | LVCMOS25             |       |          |      |              |          | 0 / 0    |
+| C_out                              | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          | 0 / 0    |
+| DECO_CLK                           | IBUF             | INPUT     | LVCMOS25             |       |          |      |              |          | 0 / 0    |
+| PC_CLK                             | IBUF             | INPUT     | LVCMOS25             |       |          |      |              |          | 0 / 0    |
+| R7out<0>                           | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          | 0 / 0    |
+| R7out<1>                           | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          | 0 / 0    |
+| R7out<2>                           | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          | 0 / 0    |
+| R7out<3>                           | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          | 0 / 0    |
+| REG_CLK                            | IBUF             | INPUT     | LVCMOS25             |       |          |      |              |          | 0 / 0    |
+| Reg_CLR                            | IBUF             | INPUT     | LVCMOS25             |       |          |      |              |          | 0 / 0    |
++---------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Section 7 - RPMs
+----------------
+XLXI_56/XLXI_1_XLXI_10_0                
+XLXI_56/XLXI_3_XLXI_10_0                
+XLXI_56/XLXI_4_XLXI_10_0                
+XLXI_56/XLXI_5_XLXI_10_0                
+XLXI_57/XLXI_1_XLXI_10_0                
+XLXI_57/XLXI_3_XLXI_10_0                
+XLXI_57/XLXI_4_XLXI_10_0                
+XLXI_57/XLXI_5_XLXI_10_0                
+
+Section 8 - Guide Report
+------------------------
+Guide not run on this design.
+
+Section 9 - Area Group and Partition Summary
+--------------------------------------------
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+Area Group Information
+----------------------
+
+  No area groups were found in this design.
+
+----------------------
+
+Section 10 - Timing Report
+--------------------------
+This design was not run using timing mode.
+
+Section 11 - Configuration String Details
+-----------------------------------------
+Use the "-detail" map option to print out Configuration Strings
+
+Section 12 - Control Set Information
+------------------------------------
+No control set information for this architecture.
+
+Section 13 - Utilization by Hierarchy
+-------------------------------------
+Use the "-detail" map option to print out the Utilization by Hierarchy section.
